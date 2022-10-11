@@ -2,7 +2,7 @@
 
 In the project directory execute the following:
 
-        $ ./gradlew bootRun
+        $ mvn spring-boot:run
 
 The server starts at port 8081 and you can use the browser on your local machine to test the application response at the following URLs:
 
